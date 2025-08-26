@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor files
+*.idea/
+*.spyproject/
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
