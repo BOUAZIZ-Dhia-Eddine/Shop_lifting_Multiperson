@@ -97,6 +97,6 @@ Key contributions include:
 
 Example inference output:
 
-![Confusion Matrix](Shop_lifting_Multiperson/confusion_matrix_inference.png)
+![Confusion Matrix](./confusion_matrix_inference.png)
 
 
